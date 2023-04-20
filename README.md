@@ -1,8 +1,8 @@
 # cryptex
 Curated collection of blockchain &amp; cryptocurrency links.
 
-# Sponsor
-[<img src="https://github.com/coinpride/CryptoList/blob/master/join_cryptomemes.png?raw=true" width="467">](https://t.me/join_cryptomemes)
+# Sponsor - icogems ico calendar
+[<img src="https://github.com/danbilazd/cryptex/blob/main/ico%20calendar.PNG?raw=true" width="467">](https://icogems.com)
 
 
 # Contents
